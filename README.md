@@ -3,12 +3,14 @@ Honeypot
 
 MHN Honeypot: Dionaea
 
-Issues: I got an error when running the install.sh script. To fix this I cloned the files from a different repository.
+Issues: I dont have any issue.
 
 Summary:
 
-  Attacks:6,688 (yes, all sixes about 18 hours after I deployed the honeypot)
+  Attacks:4,367 (24 hours after I deployed the honeypot)
   
-  Top IP: 73.92.107.227
+  Top IP: 37.49.231.176 
   
-  Top Port: 8088
+  Top Port: 8088 
+
+<img src="https://imgur.com/a/pJuATui" width="800">
